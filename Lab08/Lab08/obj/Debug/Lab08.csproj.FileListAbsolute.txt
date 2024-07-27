@@ -1,0 +1,10 @@
+C:\Users\nikit\OneDrive\Рабочий стол\Университет\ТИПиС\Lab08\Lab08\bin\Debug\Lab08.exe.config
+C:\Users\nikit\OneDrive\Рабочий стол\Университет\ТИПиС\Lab08\Lab08\bin\Debug\Lab08.exe
+C:\Users\nikit\OneDrive\Рабочий стол\Университет\ТИПиС\Lab08\Lab08\bin\Debug\Lab08.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Университет\ТИПиС\Lab08\Lab08\obj\Debug\Lab08.csproj.AssemblyReference.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Университет\ТИПиС\Lab08\Lab08\obj\Debug\Lab08.Form1.resources
+C:\Users\nikit\OneDrive\Рабочий стол\Университет\ТИПиС\Lab08\Lab08\obj\Debug\Lab08.Properties.Resources.resources
+C:\Users\nikit\OneDrive\Рабочий стол\Университет\ТИПиС\Lab08\Lab08\obj\Debug\Lab08.csproj.GenerateResource.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Университет\ТИПиС\Lab08\Lab08\obj\Debug\Lab08.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Университет\ТИПиС\Lab08\Lab08\obj\Debug\Lab08.exe
+C:\Users\nikit\OneDrive\Рабочий стол\Университет\ТИПиС\Lab08\Lab08\obj\Debug\Lab08.pdb

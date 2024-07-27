@@ -1,0 +1,31 @@
+C:\Users\nikit\Desktop\Lab07\Lab07\bin\Debug\Lab07.exe.config
+C:\Users\nikit\Desktop\Lab07\Lab07\bin\Debug\Lab07.exe
+C:\Users\nikit\Desktop\Lab07\Lab07\bin\Debug\Lab07.pdb
+C:\Users\nikit\Desktop\Lab07\Lab07\obj\Debug\Lab07.csproj.AssemblyReference.cache
+C:\Users\nikit\Desktop\Lab07\Lab07\obj\Debug\Lab07.Form1.resources
+C:\Users\nikit\Desktop\Lab07\Lab07\obj\Debug\Lab07.Properties.Resources.resources
+C:\Users\nikit\Desktop\Lab07\Lab07\obj\Debug\Lab07.csproj.GenerateResource.cache
+C:\Users\nikit\Desktop\Lab07\Lab07\obj\Debug\Lab07.csproj.CoreCompileInputs.cache
+C:\Users\nikit\Desktop\Lab07\Lab07\obj\Debug\Lab07.exe
+C:\Users\nikit\Desktop\Lab07\Lab07\obj\Debug\Lab07.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Университет\ТИПиС\Lab07\Lab07\bin\Debug\Lab07.exe.config
+C:\Users\nikit\OneDrive\Рабочий стол\Университет\ТИПиС\Lab07\Lab07\bin\Debug\Lab07.exe
+C:\Users\nikit\OneDrive\Рабочий стол\Университет\ТИПиС\Lab07\Lab07\bin\Debug\Lab07.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Университет\ТИПиС\Lab07\Lab07\obj\Debug\Lab07.csproj.AssemblyReference.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Университет\ТИПиС\Lab07\Lab07\obj\Debug\Lab07.Form1.resources
+C:\Users\nikit\OneDrive\Рабочий стол\Университет\ТИПиС\Lab07\Lab07\obj\Debug\Lab07.Properties.Resources.resources
+C:\Users\nikit\OneDrive\Рабочий стол\Университет\ТИПиС\Lab07\Lab07\obj\Debug\Lab07.csproj.GenerateResource.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Университет\ТИПиС\Lab07\Lab07\obj\Debug\Lab07.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Университет\ТИПиС\Lab07\Lab07\obj\Debug\Lab07.exe
+C:\Users\nikit\OneDrive\Рабочий стол\Университет\ТИПиС\Lab07\Lab07\obj\Debug\Lab07.pdb
+C:\Users\vikak\OneDrive\Документы\2 курс\4 семестр\Теория информационных процессов и систем\Лабораторные работы\Lab07\Lab07\bin\Debug\Lab07.exe.config
+C:\Users\vikak\OneDrive\Документы\2 курс\4 семестр\Теория информационных процессов и систем\Лабораторные работы\Lab07\Lab07\bin\Debug\Lab07.exe
+C:\Users\vikak\OneDrive\Документы\2 курс\4 семестр\Теория информационных процессов и систем\Лабораторные работы\Lab07\Lab07\bin\Debug\Lab07.pdb
+C:\Users\vikak\OneDrive\Документы\2 курс\4 семестр\Теория информационных процессов и систем\Лабораторные работы\Lab07\Lab07\obj\Debug\Lab07.csproj.AssemblyReference.cache
+C:\Users\vikak\OneDrive\Документы\2 курс\4 семестр\Теория информационных процессов и систем\Лабораторные работы\Lab07\Lab07\obj\Debug\Lab07.csproj.SuggestedBindingRedirects.cache
+C:\Users\vikak\OneDrive\Документы\2 курс\4 семестр\Теория информационных процессов и систем\Лабораторные работы\Lab07\Lab07\obj\Debug\Lab07.Form1.resources
+C:\Users\vikak\OneDrive\Документы\2 курс\4 семестр\Теория информационных процессов и систем\Лабораторные работы\Lab07\Lab07\obj\Debug\Lab07.Properties.Resources.resources
+C:\Users\vikak\OneDrive\Документы\2 курс\4 семестр\Теория информационных процессов и систем\Лабораторные работы\Lab07\Lab07\obj\Debug\Lab07.csproj.GenerateResource.cache
+C:\Users\vikak\OneDrive\Документы\2 курс\4 семестр\Теория информационных процессов и систем\Лабораторные работы\Lab07\Lab07\obj\Debug\Lab07.csproj.CoreCompileInputs.cache
+C:\Users\vikak\OneDrive\Документы\2 курс\4 семестр\Теория информационных процессов и систем\Лабораторные работы\Lab07\Lab07\obj\Debug\Lab07.exe
+C:\Users\vikak\OneDrive\Документы\2 курс\4 семестр\Теория информационных процессов и систем\Лабораторные работы\Lab07\Lab07\obj\Debug\Lab07.pdb

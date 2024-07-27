@@ -1,0 +1,19 @@
+C:\Users\Bubunduc\Desktop\Типис\TipisLab6\TipisLab6\bin\Debug\TipisLab6.exe.config
+C:\Users\Bubunduc\Desktop\Типис\TipisLab6\TipisLab6\bin\Debug\TipisLab6.exe
+C:\Users\Bubunduc\Desktop\Типис\TipisLab6\TipisLab6\bin\Debug\TipisLab6.pdb
+C:\Users\Bubunduc\Desktop\Типис\TipisLab6\TipisLab6\obj\Debug\TipisLab6.csproj.AssemblyReference.cache
+C:\Users\Bubunduc\Desktop\Типис\TipisLab6\TipisLab6\obj\Debug\TipisLab6.Properties.Resources.resources
+C:\Users\Bubunduc\Desktop\Типис\TipisLab6\TipisLab6\obj\Debug\TipisLab6.csproj.GenerateResource.cache
+C:\Users\Bubunduc\Desktop\Типис\TipisLab6\TipisLab6\obj\Debug\TipisLab6.csproj.CoreCompileInputs.cache
+C:\Users\Bubunduc\Desktop\Типис\TipisLab6\TipisLab6\obj\Debug\TipisLab6.exe
+C:\Users\Bubunduc\Desktop\Типис\TipisLab6\TipisLab6\obj\Debug\TipisLab6.pdb
+C:\Users\vikak\OneDrive\Документы\2 курс\4 семестр\Теория информационных процессов и систем\Лабораторные работы\TipisLab6\TipisLab6\bin\Debug\TipisLab6.exe.config
+C:\Users\vikak\OneDrive\Документы\2 курс\4 семестр\Теория информационных процессов и систем\Лабораторные работы\TipisLab6\TipisLab6\bin\Debug\TipisLab6.exe
+C:\Users\vikak\OneDrive\Документы\2 курс\4 семестр\Теория информационных процессов и систем\Лабораторные работы\TipisLab6\TipisLab6\bin\Debug\TipisLab6.pdb
+C:\Users\vikak\OneDrive\Документы\2 курс\4 семестр\Теория информационных процессов и систем\Лабораторные работы\TipisLab6\TipisLab6\obj\Debug\TipisLab6.csproj.AssemblyReference.cache
+C:\Users\vikak\OneDrive\Документы\2 курс\4 семестр\Теория информационных процессов и систем\Лабораторные работы\TipisLab6\TipisLab6\obj\Debug\TipisLab6.csproj.SuggestedBindingRedirects.cache
+C:\Users\vikak\OneDrive\Документы\2 курс\4 семестр\Теория информационных процессов и систем\Лабораторные работы\TipisLab6\TipisLab6\obj\Debug\TipisLab6.Properties.Resources.resources
+C:\Users\vikak\OneDrive\Документы\2 курс\4 семестр\Теория информационных процессов и систем\Лабораторные работы\TipisLab6\TipisLab6\obj\Debug\TipisLab6.csproj.GenerateResource.cache
+C:\Users\vikak\OneDrive\Документы\2 курс\4 семестр\Теория информационных процессов и систем\Лабораторные работы\TipisLab6\TipisLab6\obj\Debug\TipisLab6.csproj.CoreCompileInputs.cache
+C:\Users\vikak\OneDrive\Документы\2 курс\4 семестр\Теория информационных процессов и систем\Лабораторные работы\TipisLab6\TipisLab6\obj\Debug\TipisLab6.exe
+C:\Users\vikak\OneDrive\Документы\2 курс\4 семестр\Теория информационных процессов и систем\Лабораторные работы\TipisLab6\TipisLab6\obj\Debug\TipisLab6.pdb
